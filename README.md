@@ -52,7 +52,7 @@ MedicBot is a robotics project designed to streamline routine medical checks, le
 
 ---
 
-Stay tuned for updates and advancements as MedicBot evolves to redefine routine healthcare!
+Stay tuned!
 
 </div>
 
