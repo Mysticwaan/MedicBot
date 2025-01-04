@@ -41,6 +41,9 @@ MedicBot is a robotics project designed to streamline routine medical checks, le
 ![Final Design](https://github.com/user-attachments/assets/c4b81ca0-4de8-41ea-9f08-1150b0618923)
 - Enhanced mobility and diagnostics with new hardware.
 - Improved user interaction through an intuitive display interface.
+![Screenshot 2025-01-03 170131](https://github.com/user-attachments/assets/c44eb645-cc58-4c8a-8148-745e7d15a375)
+![Screenshot 2025-01-03 170432](https://github.com/user-attachments/assets/afda7042-f9c4-4865-b773-e3d9dc27f2d2)
+
 
 ---
 
