@@ -55,6 +55,30 @@ MedicBot is a robotics project designed to streamline routine medical checks, le
 
 ---
 
+1. Body Temperature
+
+    Sensor: MLX90614 (Non-contact Infrared Sensor)
+    Measures body temperature without touching the skin.
+
+2. Heart Rate and SpO2
+
+    Sensor: MAX30102 Pulse Oximeter
+    Tracks heart rate (BPM) and blood oxygen levels (SpO2).
+
+3. Blood Pressure
+
+    Device: Bluetooth or USB Blood Pressure Monitor
+    Integrates off-the-shelf monitors for systolic/diastolic readings.
+
+4. Weight
+
+    Sensor: Load Cell with HX711 Amplifier
+    Monitors weight to calculate BMI when height is known.
+
+5. Air Quality
+
+    Sensor: MQ135 Gas Sensor
+    Detects harmful gases and pollutants affecting indoor air quality. 
 Stay tuned!
 
 </div>
