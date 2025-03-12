@@ -62,6 +62,7 @@ MedicBot is a robotics project designed to streamline routine medical checks, le
 
 ---
 
+<!-- 
 1. Body Temperature
 
     Sensor: MLX90614 (Non-contact Infrared Sensor)
@@ -87,6 +88,5 @@ MedicBot is a robotics project designed to streamline routine medical checks, le
     Sensor: MQ135 Gas Sensor
     Detects harmful gases and pollutants affecting indoor air quality. 
 Stay tuned!
-
-</div>
+-->
 
