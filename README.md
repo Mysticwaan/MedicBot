@@ -1,15 +1,16 @@
 <div align="center">
   
-https://medicbot002.netlify.app/
-  
-# MedicBot
+# [MedicBot!](https://medicbot002.netlify.app/)
 
 ## Automate Routine Checks
 
 MedicBot is a robotics project designed to streamline routine medical checks, leveraging advanced technology for precise diagnostics and convenience.
 
 ---
-![3778320-0-05636600-1736778846-shutterstock_2129755886-100945981-orig](https://github.com/user-attachments/assets/8cd12e16-3cdd-474a-a4ac-f77436e78613)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8cd12e16-3cdd-474a-a4ac-f77436e78613" height="300px" />
+  <img src="https://github.com/user-attachments/assets/61d8a645-b7cb-414c-9f1c-8a3077e81d98" height="300px" />
+</p>
 
 
 ### Initial Ideas
