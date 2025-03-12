@@ -8,8 +8,8 @@ MedicBot is a robotics project designed to streamline routine medical checks, le
 
 ---
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2db0ba5f-76ff-42fc-b448-697551e0915f" height="240px" />
-  <img src="https://github.com/user-attachments/assets/61d8a645-b7cb-414c-9f1c-8a3077e81d98" height="240px" />
+  <img src="https://github.com/user-attachments/assets/2db0ba5f-76ff-42fc-b448-697551e0915f" height="230px" />
+  <img src="https://github.com/user-attachments/assets/61d8a645-b7cb-414c-9f1c-8a3077e81d98" height="230px" />
 </p>
 
 
