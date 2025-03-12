@@ -16,7 +16,6 @@ MedicBot is a robotics project designed to streamline routine medical checks, le
 ![3778320-0-05636600-1736778846-shutterstock_2129755886-100945981-orig](https://github.com/user-attachments/assets/8cd12e16-3cdd-474a-a4ac-f77436e78613)
 
 ### Initial Ideas
-![Initial Ideas](https://github.com/user-attachments/assets/a512336b-c7aa-4a9d-a38a-309f703fe535)
 - **Core Functions:**
   - Measure temperature.
   - Capture full-body photos.
@@ -24,9 +23,6 @@ MedicBot is a robotics project designed to streamline routine medical checks, le
   - Monitor blood pressure.
   - Test hand sensors with a gentle push.
 
----
-
-### More Details
 ![More Details](https://github.com/user-attachments/assets/b6fb990e-5d3d-45f4-a1e1-07193bf8c49a)
 - **Key Features:**
   - Compact design for easy mobility.
