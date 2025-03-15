@@ -2,7 +2,8 @@
   
 # [MedicBot!](https://medicbot002.netlify.app/)
 
-![image](https://github.com/user-attachments/assets/e8f02a8b-e13c-4e6f-bbfb-ab2ee20b9bbf)
+
+![medicbot_banner](https://github.com/user-attachments/assets/ad0f387b-f6d6-43b2-a8dd-782bff8659fc)
 
 
 
