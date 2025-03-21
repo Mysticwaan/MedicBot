@@ -1,6 +1,6 @@
 <div align="center">
   
-# [Build Your Own MedicBot!](https://medicbot002.netlify.app/)
+# [MedicBot!](https://medicbot002.netlify.app/)
 
 
 ![medicbot_banner](https://github.com/user-attachments/assets/ad0f387b-f6d6-43b2-a8dd-782bff8659fc)
