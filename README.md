@@ -12,7 +12,8 @@
 # MedicBot - Open Source Medical Assistant Robot
 
 ![Screenshot 2025-03-15 at 21-27-28 (JPEG Image 558 × 1024 pixels)](https://github.com/user-attachments/assets/2ac57d00-37ac-4e56-bc0d-133dbcd5ecfd)
-1st prototype
+
+(1st prototype)
 
 ## 🚀 Overview
 
