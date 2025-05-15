@@ -3,13 +3,17 @@
 # [Click here for MedicBot!](https://medicbot002.netlify.app/)
 
 
+![ChatGPT Image May 15, 2025, 07_00_31 AM](https://github.com/user-attachments/assets/f2614c87-89a0-4ece-9ca0-e059609c59c4)
 ![medicbot_banner](https://github.com/user-attachments/assets/ad0f387b-f6d6-43b2-a8dd-782bff8659fc)
+
 
 
 
 # MedicBot - Open Source Medical Assistant Robot
 
 ![Screenshot 2025-03-15 at 21-27-28 (JPEG Image 558 × 1024 pixels)](https://github.com/user-attachments/assets/2ac57d00-37ac-4e56-bc0d-133dbcd5ecfd)
+
+(1st prototype)
 
 ## 🚀 Overview
 
@@ -55,15 +59,16 @@ MedicBot/
 
 ## 💰 Materials & Pricing
 
-| Component        | EU Price (Amazon) | US Price (Amazon) |
-|------------------|-------------------|-------------------|
-| Servo Motor      | €X.XX             | $X.XX             |
-| Raspberry Pi     | €X.XX             | $X.XX             |
-| LiDAR Sensor     | €X.XX             | $X.XX             |
-| Infrared Thermometer | €X.XX         | $X.XX             |
-| Air Quality Sensor | €X.XX           | $X.XX             |
 
-*(For a full list, check `materials/pricing_table.csv`.)*
+| Component             | EU Price (Amazon) | US Price (Amazon) |
+|-----------------------|-------------------|-------------------|
+| Servo Motor           | [€10.00](https://www.amazon.de/dp/B07K8SQM6T) | [$12.00](https://www.amazon.com/dp/B07K8SQM6T) |
+| Raspberry Pi 4 Model B (2GB) | [€45.00](https://www.amazon.de/dp/B09TTNPB4J) | [$49.99](https://www.amazon.com/dp/B09TTNPB4J) |
+| LiDAR Sensor          | [€150.00](https://www.amazon.de/dp/B0CP6XDCWS) | [$160.00](https://www.amazon.com/dp/B0CP6XDCWS) |
+| Infrared Thermometer  | [€15.00](https://www.amazon.de/dp/B089T5Y59H) | [$17.00](https://www.amazon.com/dp/B089T5Y59H) |
+| Air Quality Sensor    | [€50.00](https://www.amazon.de/dp/B08X2V5K28) | [$50.00](https://www.amazon.com/dp/B08X2V5K28) |
+
+*Note: Prices are approximate and may vary based on seller and availability.*
 
 ## 🖥️ Software Setup & Running MedicBot
 
