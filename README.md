@@ -1,10 +1,12 @@
 <div align="center">
   
 # [Click here for MedicBot!](https://medicbot002.netlify.app/)
+![medicbot_banner](https://github.com/user-attachments/assets/ad0f387b-f6d6-43b2-a8dd-782bff8659fc)
 
+![984a5501-518f-4113-9f2f-ac7cb209af1b](https://github.com/user-attachments/assets/0f49d96a-a1eb-40b5-89e5-ffdccee2bef9)
 
 ![ChatGPT Image May 15, 2025, 07_00_31 AM](https://github.com/user-attachments/assets/f2614c87-89a0-4ece-9ca0-e059609c59c4)
-![medicbot_banner](https://github.com/user-attachments/assets/ad0f387b-f6d6-43b2-a8dd-782bff8659fc)
+
 
 
 
