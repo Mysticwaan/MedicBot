@@ -4,11 +4,6 @@
 ![ChatGPT Image May 13, 2025, 09_21_19 AM](https://github.com/user-attachments/assets/e5c49120-97be-4410-957a-945483bcc4a5)
 ![medicbot_banner](https://github.com/user-attachments/assets/ad0f387b-f6d6-43b2-a8dd-782bff8659fc)
 
-
-
-
-
-
 # MedicBot - Open Source Medical Assistant Robot
 
 ## 🚀 Overview
@@ -124,16 +119,6 @@ We welcome contributions to enhance MedicBot's capabilities:
 2. **Create a new branch:** Use `git checkout -b feature-name` to create a feature branch.
 3. **Make your changes:** Implement your feature or bug fix.
 4. **Submit a pull request:** Open a pull request with a detailed description of your changes.
-
-## 📝 License
-
-MedicBot is licensed under the **MIT License**. See the `LICENSE` file for more details.
-
-## 📧 Contact
-
-For questions or support, reach out at **your.email@example.com** or open an issue on GitHub.
-
----
 
 **🔗 Website:** [MedicBot Official Page](https://medicbot002.netlify.app/)
 
