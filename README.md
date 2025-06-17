@@ -1,12 +1,9 @@
 <div align="center">
-  
+
 # [Click here for MedicBot!](https://medicbot002.netlify.app/)
 ![ChatGPT Image May 13, 2025, 09_21_19 AM](https://github.com/user-attachments/assets/e5c49120-97be-4410-957a-945483bcc4a5)
 ![medicbot_banner](https://github.com/user-attachments/assets/ad0f387b-f6d6-43b2-a8dd-782bff8659fc)
-![image](https://github.com/user-attachments/assets/69f98a7e-22a7-4d74-add5-6161b1f73f1e)
 
-
-![ChatGPT Image May 15, 2025, 07_00_31 AM](https://github.com/user-attachments/assets/f2614c87-89a0-4ece-9ca0-e059609c59c4)
 
 
 
@@ -14,7 +11,13 @@
 
 # MedicBot - Open Source Medical Assistant Robot
 
-![Screenshot 2025-03-15 at 21-27-28 (JPEG Image 558 × 1024 pixels)](https://github.com/user-attachments/assets/2ac57d00-37ac-4e56-bc0d-133dbcd5ecfd)
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2ac57d00-37ac-4e56-bc0d-133dbcd5ecfd" width="49%" height="800"/>
+  <img src="https://github.com/user-attachments/assets/f2614c87-89a0-4ece-9ca0-e059609c59c4" width="49%" height="800"/>
+</p>
+
+![image](https://github.com/user-attachments/assets/69f98a7e-22a7-4d74-add5-6161b1f73f1e)
 
 (1st prototype)
 
