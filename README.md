@@ -108,5 +108,3 @@ MedicBot/
    ```
 
 ## 📸 Project Images
-
-![MedicBot Preview](https://medicbot002.netlify.app/assets/preview.png)
