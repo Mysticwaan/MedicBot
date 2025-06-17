@@ -11,20 +11,7 @@
 
 # MedicBot - Open Source Medical Assistant Robot
 
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/2ac57d00-37ac-4e56-bc0d-133dbcd5ecfd" width="49%" height="800"/>
-  <img src="https://github.com/user-attachments/assets/f2614c87-89a0-4ece-9ca0-e059609c59c4" width="49%" height="800"/>
-</p>
-
-![image](https://github.com/user-attachments/assets/69f98a7e-22a7-4d74-add5-6161b1f73f1e)
-
-(1st prototype)
-
 ## 🚀 Overview
-
-
-![984a5501-518f-4113-9f2f-ac7cb209af1b](https://github.com/user-attachments/assets/0f49d96a-a1eb-40b5-89e5-ffdccee2bef9)
 
 MedicBot is an open-source medical assistant robot designed to revolutionize healthcare by combining robotics and autonomous systems for streamlined medical checks and patient care. This project provides **STL files** for 3D printing, a **materials price comparison table** for European and American Amazon, and **Python instructions** to run the robot efficiently.
 
@@ -44,6 +31,11 @@ MedicBot is an open-source medical assistant robot designed to revolutionize hea
 - ⌚ **Apple Watch Integration:** Sync health data for real-time tracking.
 - 🎙️ **Voice Commands:** Control MedicBot hands-free using voice recognition.
 - ☁️ **Cloud-Based Health Tracking:** Store and analyze health data securely.
+
+  <p align="center">
+  <img src="https://github.com/user-attachments/assets/2ac57d00-37ac-4e56-bc0d-133dbcd5ecfd" width="49%" height="800"/>
+  <img src="https://github.com/user-attachments/assets/f2614c87-89a0-4ece-9ca0-e059609c59c4" width="49%" height="800"/>
+</p>
 
 ## 📂 Project Structure
 
@@ -65,6 +57,9 @@ MedicBot/
 3. **Select materials:** PLA filament is recommended for durability and ease of printing.
 4. **Print the components:** Follow standard 3D printing procedures to produce each part.
 5. **Assemble the robot:** Refer to the assembly guide in the `docs/` directory for step-by-step instructions.
+
+
+![image](https://github.com/user-attachments/assets/69f98a7e-22a7-4d74-add5-6161b1f73f1e)   
 
 ## 💰 Materials & Pricing
 
@@ -90,6 +85,10 @@ MedicBot/
   - Python 3.x installed
   - Required Python libraries (install via `requirements.txt`)
   - Apple Health & Cloud API setup for additional features
+ 
+  
+![984a5501-518f-4113-9f2f-ac7cb209af1b](https://github.com/user-attachments/assets/0f49d96a-a1eb-40b5-89e5-ffdccee2bef9)
+
 
 ### Installation Steps
 
