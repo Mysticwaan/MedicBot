@@ -110,15 +110,3 @@ MedicBot/
 ## 📸 Project Images
 
 ![MedicBot Preview](https://medicbot002.netlify.app/assets/preview.png)
-
-## 🤝 Contributing
-
-We welcome contributions to enhance MedicBot's capabilities:
-
-1. **Fork the repository:** Click the 'Fork' button on GitHub.
-2. **Create a new branch:** Use `git checkout -b feature-name` to create a feature branch.
-3. **Make your changes:** Implement your feature or bug fix.
-4. **Submit a pull request:** Open a pull request with a detailed description of your changes.
-
-**🔗 Website:** [MedicBot Official Page](https://medicbot002.netlify.app/)
-
